@@ -1,0 +1,124 @@
+Comptage des messages...
+Vous avez posté {count} messages dans ce salon
+{0} vient d'offrir une boite de cookies à <@375598088850505728> ! <:cookies_eat:421791321410240514>
+Coucou :wave: Je suis là {0}
+:wave: Coucou ! Je suis là !  Tu voulais peut-être dire `!help` ?
+Youpi ! C'est l'heure de faire la fête !
+Vous souhaitez reporter un membre ou un serveur à l'équipe de Discord ? C'est par ici
+Impossible de trouver le message correspondant. Il faut rentrer l'ID du message en 1er argument, et l'émoji en 2e :upside_down:
+Raté, c'est tombé sur la tranche !
+['{0} a été épargné par Thanos', "Thanos a décidé de réduire {0} en cendres. Pour le bien de l'humanité..."]
+Oops, je n'ai pas les permissions de créer une invitation ("Gérer le serveur")
+__**Lien d'invitation du serveur :**__    :incoming_envelope: Voici un lien d'invitation pour le salon {} (Il lui reste encore {} utilisations - {} secondes) : 
+Oups, erreur de calcul
+<:maths:451067921121148937> | Vous pouvez utiliser cette commande pour effectuer un calcul, tels que des sommes, produits...  Vous avez aussi accès à d'autres sortes de calculs plus élaborés comme les nombres random. Il vous suffit pour cela de rentrer random()`, ou `randint(0,10)` par exemple.  Les calculs de type sinus sont aussi acceptés, pour cela entrez simplement `sin(pi)` ou `sin(90)`. Par défaut les calculs sont faits en radians.  
+Voici la liste des commandes *inutiles donc indispensables* que je possède :
+
+Sélectionnez *play*, *watch*, *listen* ou *stream* suivi du nom
+ID invalide
+Erreur
+Impossible de trouver ce serveur/salon
+Mise sous écoute du salon {} (serveur {})
+Création de la sauvegarde...
+Bot en voie d'extinction
+Opération en cours...
+Aucun membre affecté
+1 membre affecté
+membres affectés
+Module(s) *{}* correctement importé(s) !
+Le bug n°{} n'a pas été trouvé
+
+Commandes réservées au staff
+Commandes pour tout le monde
+
+__**Bienvenue dans le module des message de join et de leave**__    Ce module vous sert à configurer un message automatique à chaque fois qu'un membre rentre ou sort de votre serveur.    __**La configuration**__    `1-` Pour configurer le salon où ces messages s'écrivent, entrez `!sconfig change welcome_channel` suivi de l'ID du salon (clic droit -> "Copier l'identifiant" pour ordinateur, ou rester appuyez sur le salon -> "Copier l'identifiant" pour téléphone, mais il vous faudras avoir activer le mode dévellopeur pour obtenir cette option).  `2-` Pour configurer un message, entrez `!sconfig change <welcome|leave> <message>`. Pour ce message vous pouvez utiliser des variables, qui sont {user} pour mentionner le membre, {server} pour le nom du serveur, et {owner} pour le nom du propriétaire du serveur.  
+
+La syntaxe est `!clear <nombre  | joueur> [true | false]`. Entrez *true* si vous souhaitez conserver les messages épinglés, *false* si vous ne le souhaitez pas  Par défaut, *true* est activé.  **Attention : cette commande est réservée à certains membres du staff !**
+Oups, 2e argument invalide
+ messages supprimés !
+Désolé {0}, mais en raison des restrictions de Discord cette commande n'est pas disponible en mp :confused:
+Désolé {0}, mais tu n'as pas le role requis pour accéder à cette commande
+Voulez-vous vraiment effectuer une purge complète de ce salon ? (répondez "oui" si oui)
+Temps écoulé, vous n'avez pas répondu à temps :hourglass:
+Oups, fail ¯\_(ツ)_/¯   Plaignez-vous à @Z_runner#7515
+
+Congratulations ! {} a atteint le niveau {} dans ce jeu !
+Dommage ! {} vient de perdre en niveaux et tombe au niveau {} dans ce jeu :confused:
+Oups, il ne vous reste plus de munitions :confused:  Attendez encore {}h {}mn :hourglass:
+Nouveau joueur détecté ! Bienvenue à {} !
+Vous ne semblez avoir jamais participé à ce jeu {}. Pourquoi voulez-vous diable acheter des cartouches ??
+{0} a acheté {1} nouvelle cartouche pour {2} xp !
+Vous croyiez sérieusement pouvoir acheter un nombre négatif de balles ? :rofl:
+Vous n'avez que {0} points d'expérience, ce n'est pas suffisant :upside_down:
+Cette commande vous permet d'acheter des munitions sans devoir attendre le prochain rechargement automatique. Pour cela il suffit de taper `!shop` suivit du nombre de cartouches à acheter !
+Oups, le nombre entré est invalide :upside_down:
+Vous ne pouvez pas recharger votre arme manuellement :thinking:  En revanche vous gagnez automatiquement {} toutes les 4 heures, et vous pouvez acheter des cartouches avec la commande `!shop` ! ({}xp par cartouche)
+**Rang :** {}    **Niveau :** {}    **Points :** {}    **Munitions restantes :** {}
+Impossible de trouver le membre {}
+Oups, il semble y avoir une erreur dans la commande.  Pour rappel, la syntaxe est `!top [nombre]` :innocent:
+Niveaux d'xp sur *Hunter* - TOP 
+Places
+Nom
+Points d'expérience
+Bravo, vous êtes le premier !
+Oups, vous n'êtes pas encore classé
+Vous êtes classés à la {}ème position !
+Les commandes du Hunter:  - `!phelp` Fait apparaître ce menu.  - `!pan` Permet de tirer. Plus d'informations dans le `!pinfo`.  - `!rank` Votre niveau actuel et autres statistiques.  - `!top` Le classement global sur le nombre de points.  - `!pinfo` Les informations sur le jeu.  - `!shop [nombre]` Acheter des cartouches ({0}xp par cartouche)
+**Bonjour en bienvenue dans le jeu *Hunter*** !  Il s'agit d'un jeu de ~~tir~~ hasard inspiré d'un très célèbre jeu de chasse aux canards, encore en développement.  Le but du jeu est simple : tirez, et si vous avez de la chance vous tomberez sur un objet qui donne beaucoup d'xp. Évidemment plus un objet rapporte d'xp, plus il est rare !  Vous démarrez avec {0} munitions, et votre chargeur est rempli toutes les quatre heures, mais vous pouvez aussi en acheter à {1}xp par cartouche.  On pensera à remercier **Aragorn1202** et **Platon_Neutron** pour avoir inventé les différentes phrases, ainsi qu'à *Z_runner#7515* pour avoir codé le bot :wink:    *Amusez-vous bien, et... que la chance soit avec vous !*
+
+Oops, il manque un paramètre
+Nom : {}  ID numérique : {}  ID : {}
+Nom : {}  ID numérique : {}:{}  ID : {}
+Impossible de trouver cet item
+Items importés !
+Entités importées !
+Items et entités importés !
+Paramètre invalide. Sélectionnez `item`, `entity` ou `all`
+Cette commande permet de trouver un bloc ou une entité de Mineraft® à partir de son nom ou de son ID. Vous n'avez qu'à entrer `!mc <item/entity> <data>` pour obtenir les informations correspondantes !  *PS : la base de donnée est actuellement en 1.12*
+Paramètres invalides. Sélectionnez `help`, `item` ou `entity`
+Impossible de trouver cette entité
+
+Le salon {} est maintenant en slowmode ! ({} secondes)
+Hum... désolé, mais nous n'acceptons que les secondes en paramètre :rolling_eyes: 
+Hum... il semble y avoir une erreur :thinking:  Pour rappel, la syntaxe est `!slowmode <secondes>`
+Vous ne semblez pas posséder les permissions suffisantes pour faire cela...
+Le salon {} n'est plus en slowmode
+Wow on se calme ici, le salon n'est pas en slowmode !
+Pas trop vite {}, le salon {} est en slowmode !
+Cette commande sert à empêcher un membre de parler, dans tout le serveur. La syntaxe est `!mute <user>`, ou `!unmute <user>` pour lui redonner la parole.   - Le système fonctionne en appliquant le rôle *muted* au membre, il faut donc que celui-ci soit placé en-dessous du rôle de <@!411134209822949378>  - <@!411134209822949378> doit aussi posséder la permission d'ajouter un rôle à un membre ("manage roles" en anglais)  - Il est recommandé d'enlever la permission "Envoyer des messages" ("Send messages") manuellement au rôle *muted* dans chacun des salons où le bot n'est pas présent, pour améliorer son efficacité  **Attention : cette commande est réservée à certains membres du staff !**
+Aucun membre n'a été trouvé
+Ah, il semble que {} soit déjà mute...
+Vous ne pouvez pas réduire au silence un autre membre du staff !
+**{0}** a été réduit au silence par {1}
+Je n'ai pas les permissions requises :confused:
+Oops, le role 'muted' n'existe pas :confused:
+Désolé, vous n'avez pas la permission de faire ceci
+Ah, il semble que {} ne soit pas mute...
+**{0}** peut à nouveau parler !
+{0} a été unmute par {1}
+Hum... il semblerai que je ne dispose pas des permissions nécessaires <:excusemewhat:418154673523130398>
+Aucun membre n'est muet ici :thinking:
+Liste des membres muets : 
+Le membre {} n'a pas été trouvé :confused:
+Vous ne pouvez pas bannir un autre membre du staff  ! 
+Quelqu'un est en train de vous bannir du serveur **{}** :confused:  Raison : 
+Quelqu'un est en train de vous bannir du serveur **{}** :confused:
+ vient d'être banni de ce serveur. Raison : 
+ vient d'être banni de ce serveur.
+Bonne nouvelle, le ban n'a pas fonctionné !
+Désolé, vous n'avez pas la permission de bannir :confused:
+ semble être présent dans ce serveur. Vous êtes sûr de votre commande ? :upside_down:
+ ne semble pas être dans la liste des bannis :confused:
+ peut à nouveau nous rejoindre ! Entrez `!invite` pour recevoir un nouveau lien d'invitation à lui envoyer !
+Vous ne possédez pas la permission de faire ceci <:red_cross:447509074771312652>
+Quelqu'un est en train de vous expulser du serveur **{}** :confused:  Raison : {}
+Quelqu'un est en train de vous expulser du serveur **{}** :confused:
+**{}** vient d'être kick du serveur. Raison : {}
+**{}** vient d'être kick du serveur.
+Bonne nouvelle, il semble que le kick n'ai pas fonctionné ! :champagne:
+
+{0} est un **bot**, il ne peux pas gagner d'xp !
+Impossible de trouver le membre {0}
+
+Bonjour ! Moi c'est {0} !    Je suis un bot qui permet de faire *beaucoup* de choses : de la modération, des mini-jeux, un système d'xp, des statistiques et plein d'autres commandes plus ou moins utiles !   Vous pouvez commencer par taper `!help` dans ce tchat pour voir la liste des commandes disponibles, puis `!sconfig see` vous permettra de voir les options de configuration (un site web est en préparation).     :globe_with_meridians: Deux liens pourront vous être utiles :   :arrow_forward: Mon serveur Discord : http://discord.gg/ECRv8he  :arrow_forward: Un lien pour m'inviter dans un autre serveur : <https://bot.discord.io/zbot>    Bonne journée !
+

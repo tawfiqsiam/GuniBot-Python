@@ -1,0 +1,181 @@
+Counting messages...
+You have posted {count} messages in this channel
+{0} just offered <@375598088850505728> a bow of cookies! <:cookies_eat:421791321410240514>
+Hello :wave: I'm here {0}
+:wave: Hi ! I'm here !
+Maybe you meant `!help`?
+Yippee! Time to party!
+You wish to report a member or a server to the Discord staff? It's this way
+Unable to find the corresponding message. You need to enter the message ID as the first argument, and the emoji as the second point :upside_down:
+Failed, it fell on the side!
+['{0} was spared by Thanos', 'Thanos decided to reduce {0} to ashes. For the good of humanity...']
+Oops, I don't have permission to create an invitation ("Manage server")
+__**Server invitation link :**__
+
+:incoming_envelope: Here is a link to the channel {} (He still has {} uses - {} seconds left) : 
+Oops, calculating error
+<:maths:451067921121148937> | You can use this command to calculate such things as sums, products...
+You also have access to other kinds of more elaborate calculations such as random numbers. All you have to do is enter `random()`, or `randint(0,10)` for example.
+Sine calculations are also accepted, just enter `sin(pi)` or `sin(90)`. By default the calculations are done in radians.
+Here is the list of *useless and thus essential* commands that I have:
+
+Select *play*, *watch*, *listen* or *stream* followed by the name
+Invalid ID
+Error
+Can't find this server/channel
+Listening of the channel {} (server {})
+Creating backup...
+Bot shutdown
+Operation in progress...
+No affected members
+1 affected memberé
+affected members
+Module(s) *{}* correctly imported !
+Bug #{} not found
+
+Staff Commands Only
+Commands for Everyone
+
+__**Welcome to the join & leave message module**__
+
+This module is used to configure an automatic message each time a member enters or exits your server.
+
+__** Configuration**__
+
+`1-` To configure the room where these messages are written, enter `!sconfig change welcome_channel` followed by the room ID (right click -> "Copy ID" for computer, or keep pressing on the channel -> "Copy ID" for phone, but you will need to have enabled the developer mode to get this option).
+`2-` To configure a message, enter `!sconfig change <welcome|leave> <message>`. For this message you can use variables, which are {user} to mention the member, {server} for the server name, and {owner} for the server owner name.
+
+
+The syntax is `!clear <number | player>[true | false]`. Enter *true* if you wishkeep the pinned messages, *false* if you don't want it. By default, *true* is enabled.
+Warning: this command is reserved for certain staff members only!**
+Oops, invalid 2nd argument
+ messages deleted!
+Sorry {0}, but due to Discord restrictions this command is not available in mp :confused:
+Sorry {0}, but you don't have the required role to access this command
+Do you really want to do a complete purge of this channel? (answer "yes" if so)
+Time expired, you didn't answer fast enough :hourglass:
+Oops, fail ¯\(ツ)_/¯ 
+Complain to @Z_runner#7515
+
+Congratulations! {0} has reached level {1} in this game!
+That's too bad. {} just lost in levels and goes down to level {} in this game :confused:
+Oops, you're out of munitions :confused:
+Wait still {0}h {1}mn :hourglass:
+New player detected! Welcome to {0} !
+You never seem to have participated in this game {0}. Why the hell would you buy ammo??
+{0} bought {1} new ammo cartridge for {2} xp !
+You seriously thought you could buy a negative number of bullets? :rofl:
+You only have {0} experience points, it's not enough :upside_down:
+This command allows you to purchase munitions without waiting for the next automatic reload. Just type `!shop` followed by the number of cartridges to buy !
+Oops, number entered is invalid :upside_down:
+You can't reload your weapon manually :thinking:
+However, you automatically win {0} every 4 hours, and you can buy cartridges with the command `!shop` ! ({1}xp per cartridge)
+**Rank :** {0}
+
+**Level :** {1}
+
+**Points :** {2}
+
+**Remaining munitions :** {3}
+Unable to find member {}
+Oops, there seems to be an error in the command.
+Remember, the syntax is `!top[number]` :innocent:
+xp levels on *Hunter* - TOP 
+Ranks
+Name
+Experience points
+Well done, you're first!
+Oops, you're not ranked yet.
+You are ranked {0}th !
+Hunter commands:
+- `!phelp` Opens this menu.
+- `!pan` Allows to shoot. More information in the `!pinfo`.
+- `!rank` Your current level and other statistics.
+- `!top` The overall ranking on the number of points.
+- `!pinfo` Information about the game.
+`!shop [number]` Buy cartridges ({0}xp per cartridge)
+**Hello and welcome to the game *Hunter*** !
+It's a game of ~~shoot~~ chance inspired by a very famous game of duck hunting, still in development.
+The goal of the game is simple: shoot, and if you are lucky you will come across an object that gives a lot of xp. Obviously the more an object brings back xp, the rarer it is !
+You start with {0} ammunition, and your loader is filled every four hours, but you can also buy it at {1}xp per cartouche.
+We will think to thank **Aragorn1202** and **Platon_Neutron** for inventing the different sentences, as well as *Z_runner#7515* for coding the bot :wink:
+
+*Amuse yourselves well, and... may the luck be with you !*
+
+Oops, there' s a missing parameter
+Name: {}
+Numeric ID: {}
+ID: {}
+Name: {}
+Numeric ID: {}:{}
+ID: {}
+Unable to find this item
+Items correctly imported!
+Entities correctly imported!
+Items and entities correctly imported!
+Invalid setting. Select `item`, `entity` or `all`
+This command allows you to find a Mineraft® block or entity from its name or ID. All you have to do is enter `!mc <item/entity> <data>` to get the corresponding information !
+*PS  the database is currently in 1.12*
+Invalid settings. Select `help`, `item` or `entity`
+Unable to find this entity
+
+The channel {0} is now in slowmode! ({1} seconds)
+Um... sorry, but we only accept seconds as parameter: rolling_eyes: 
+Um... there seems to be an error :thinking:
+Remember, the syntax is `!slowmode <seconds>`
+You don't seem to have enough permissions to do that....
+The channel {0} is no longer in slowmode
+Wow, calm down here, channel is not in slowmode!
+Not so fast {0}, channem {1} is in slowmode!
+This command is used to prevent a member from speaking, throughout the server. The syntax is `!mute <user>`, or `!unmute <user>` to give him the voice again.
+- The system works by applying the *muted* role to the member, so it must be placed below the role of <@!411134209822949378>
+- <@!411134209822949378> must also have permission to add a role to a member ("manage roles")
+- It's recommended to remove the "Send messages" permission manually at the *muted* role in each of the channels where the bot is not present, to improve its efficiency
+**Attention: this command is reserved for certain members of the staff!**
+No members were found
+Ah, it seems {} is already muted...
+You can't silence another staff member!
+**{0}** has been silenced by {1}
+I don't have the required permissions :confused:
+Oops, the role 'muted' does not exist :confused:
+Sorry, you don't have permission to do this.
+Ah, it seems {} is not muted...
+**{0}** can talk again!
+{0} was unmuted by {1}
+Um... it seems I don't have the necessary permissions <:excusemewhat:418154673523130398>
+No member is mute here :thinking:
+List of mute members: 
+Member {} was not found :confused:
+You can't ban another staff member!
+Someone's banning you from the server **{}** :confused:
+Reason : 
+Someone's banning you from the server **{}** :confused:
+ has just been banned from this server. Reason : 
+ has just been banned from this server.
+Good news, the ban didn't work!
+Sorry, you don't have permission to banish :confused:
+ seems to be in this server. Are you sure about your command? :upside_down:
+ doesn't seem to be on the banned list :confused:
+ can join us again! Enter `!invite` to receive a new invitation link to send!
+You do not have permission to do this <:red_cross:447509074771312652>
+Somebody's kicking you off the server **{}** :confused:
+Reason : {}
+Somebody's kicking you off the server **{}** :confused:
+**{}** just got kicked off the server.. Reason : {}
+**{}** just got kicked off the server..
+Good news, it seems the kick didn't work! :champagne:
+
+{0} is a **bot**, can't win an xp!
+Unable to find member {0}
+
+Hello! I'm {0} !
+
+I'm a bot that allows you to do a lot of things: moderation, mini-games, an xp system, statistics and many other super useful commands (and totally pointless ones)! 
+You can start by typing `!help` in this chat to see the list of available commands, then `!sconfig see` will let you see the configuration options (a website is in preparation). 
+
+:globe_with_meridians: Two links may be useful: 
+:arrow_forward: My Discord server : http://discord.gg/ECRv8he
+:arrow_forward: A link to invite me to another server : <https://bot.discord.io/zbot>
+
+Have a nice day!
+
