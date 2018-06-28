@@ -213,10 +213,10 @@ async def on_message(message):
 t1=time.time()-t1
 r=input("Quel bot activer ? (1 release, 2 snapshot) ")
 if r=='1':
-    token="NDExMTM0MjA5ODIyOTQ5Mzc4.DV3SKQ.A9qB1U7BUTBpt2JMIxmJGoobsq0"
+    token="LOL"
     client.loop.create_task(mc.fb(client,fb_infos,True))
 elif r=='2':
-    token="NDM2ODM1Njc1MzA0NzU1MjAw.DbtSgQ.xOyqtO3l1BdYxl9zjtdDq7quQlE"
+    token="RT si t'es triste"
 else:
     sys.exit()
 r2=input("Lancement de la boucle rss ? (o/n) ")
