@@ -24,11 +24,11 @@
 
 ### Evolution
 * Système d'expérience :
-** Proportionnel à la longueur du message
-** Désactivable si besoin
+  * Proportionnel à la longueur du message
+  * Désactivable si besoin
 * Mini-Jeux
-** Chasse (type Duck Hunt)
-** Morpion
+  * Chasse (type Duck Hunt)
+  * Morpion
 
 ### Interactions
 * IA de discussion très basique
