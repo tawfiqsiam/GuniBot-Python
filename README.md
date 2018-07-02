@@ -35,6 +35,8 @@
 * Quelques commandes inutiles donc essentielles comme: !mojang (aussi dérivée en !discord)
 * Recherche rss
 * Commande pour chercher les infos de base sur un bloc/entité minecraft (id, nom) 
+* Suivi des matchs de la Fifa World Cup 2018
+* Module simple de calcul
 
 ### Langues disponibles
 * Francais
